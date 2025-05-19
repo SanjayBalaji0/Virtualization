@@ -84,15 +84,6 @@ To install and configure Kali Linux in Oracle VirtualBox.
 
     * Devices → Insert Guest Additions CD Image → Follow steps inside Kali.
 
-## Snapshots:
-AWS Account Creation Snapshot
-
-Snapshot 1: Installing Oracle VirtualBox
-![image](https://github.com/user-attachments/assets/737dafde-fd5d-4266-849a-a12013ce9c5b)
-
-Snapshot 2: Kali Running in Virtual
-![image](https://github.com/user-attachments/assets/6b08c65e-e2c0-4f8e-a782-0914a3470759)
-
 ## Result:
 Thus, Kali Linux guest OS was installed and configured successfully.
 
